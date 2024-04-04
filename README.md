@@ -4,6 +4,9 @@ All Norwegian universities require a DMP for all projects. All projects that rec
 
 We would like to invite researchers (PhD candidates, Post Doctoral Fellows, Researchers, Associate Professors and Professors) in existing and upcoming Life Science projects to develop their DMP in this workshop.
 
+### Registration is open until 25 May 2024
+[Click here for registration.](https://nettskjema.no/a/dmp-ws-24-06#/page/1).
+
 ### Organisers
 - Korbinian Bösl, ELIXIR Norway and Digital Life Norway
 - Nazeefa Fatima, ELIXIR Norway
