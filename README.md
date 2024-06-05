@@ -1,4 +1,4 @@
-# Life Sciences Data Management: Planning
+# Life Sciences Data Management: Planning (2-days Workshop)
 
 All Norwegian universities require a DMP for all projects. All projects that receive funding from the Norwegian RCN are required to submit a data management plan as soon as possible after the contract with the RCN has been signed. This two-days workshop focuses on how-to generate a data management plan for a Life Science research project that will meet both requirements.
 
