@@ -9,26 +9,8 @@ We would like to invite researchers (PhD candidates, Post Doctoral Fellows, Rese
 - Nazeefa Fatima, ELIXIR Norway
 - Federico Bianchini, ELIXIR Norway
 
-### Schedule: Day 1, Wednesday 5 June 2024
-Timings are in CEST (Central European Summer Time)
-| Time (CET) | Topic | Instructor(s) |
-|:--:|:--:|:--:|
-| 8:30-9:00 | Login Support | Organisers |
-| 09-12 | Talk | Name |
-| 09-12 | Talk | Name |
-| 09-11 | Talk | Name |
-| 00-12:30 | Talk | Name |
-| 00-12:30 | Talk | Name |
-
-### Schedule: Day 2, Thursday 6 June 2024
-| Time (CET) | Topic | Instructor(s) |
-|:--:|:--:|:--:|
-| 9:00-10:00 | Key legal and ethical requirements for research in the GDPR and Health research act | Nazeefa Fatima |
-| 09-12 | Data classification, and Norwegian storage infrastructures | Name |
-| 09-11 | Metadata standards, identifiers, vocabularies, and ontologies | Name |
-| 09-12 | Talk | Name |
-| 09-11 | Talk | Name |
-| 00-12:30 | Talk | Name |
+### Schedule
+[https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html](https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html)
 
 ### Material Availibility
-Slides from each module are available in this [repository](https://github.com/ELIXIR-Norway-Training/life-sci-data-management/) and [Zenodo](https://zenodo.org/records/), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-322f024b-69fe-4a8a-b914-0fde3de6ba77).
+Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/life-sci-dm-2024/) and [Zenodo](https://zenodo.org/records/), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-322f024b-69fe-4a8a-b914-0fde3de6ba77).
